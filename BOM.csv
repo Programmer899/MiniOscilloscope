@@ -1,0 +1,6 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+ATTINY3224,1,Electrokit,$1.78,$1.78,https://www.electrokit.com/attiny3224-ssu-so-14-8-bit-mcu-flash-32k
+OLED 128x64px,1,Electrokit,$8.03,$8.03,https://www.electrokit.com/lcd-oled-0.96128x64px-i2c-ssd1306
+L7833 Voltage Regulator,1,Electrokit,$0.13,$0.13,https://www.electrokit.com/en/l7833-sot-223-voltage-regulator-3.3v-1a
+USB-C,1,DigiKey,$1.67,$1.67,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ31-CH-3-SMT-TR/8024064
+Estimated total shipping,1,,,$22.26,
