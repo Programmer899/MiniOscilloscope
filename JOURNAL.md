@@ -14,16 +14,29 @@
 
 ## Contents
 
-1. [2026-11-01: Work session](#2026-11-01-work-session)
+1. [2026-11-01: ## November 1](#2026-11-01-november-1)
 2. [2026-11-01: ## November 1](#2026-11-01-november-1)
 3. [2026-11-01: ## November 1](#2026-11-01-november-1)
 4. [2026-11-01: ## November 2 - Finished the firmware for this oscilloscope](#2026-11-01-november-2---finished-the-firmware-for-this-oscil)
 
 ## Design
 
-### 2026-11-01: Work session
+### 2026-11-01: ## November 1
 
 **1.02h**
+
+## November 1
+This session I started by doing some research on different components that could be used in a oscilloscope.
+I am using an aTTiny45 for one of my other projects and so I thought that I could use something similar here.
+The aTTiny I found were a "aTTiny3224" which has more flash + ram than my aTTiny45.
+
+![Oscilloscope_13](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/ad29a263ca909907255e42cf379d239ed2154fd80032f63bc130bb0bd442e888.png)
+
+![Oscilloscope_14](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/3145732b9b3cb98dd3bc1e6c1569ef53612c8a0b317a9a9e062c3db4429b4a60.png)
+
+![Oscilloscope_15](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/6e3a5b29f59abf31b9ae027222a64853ca37abe002829f3107e567bc3543a3c8.png)
+
+![Oscilloscope_16](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/27364fded0503dd15da81400ce928672d3b768d5f692d52d60b9edbf7041e787.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/3f6a6be8-ae20-4745-ad08-13ef6e1c846a/video.mp4)
 
