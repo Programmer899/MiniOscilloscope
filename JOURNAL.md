@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-11-01: Work session](#2026-11-01-work-session)
-2. [2026-11-01: Work session](#2026-11-01-work-session)
+2. [2026-11-01: ## November 1](#2026-11-01-november-1)
 3. [2026-11-01: ## November 1](#2026-11-01-november-1)
 4. [2026-11-01: ## November 2 - Finished the firmware for this oscilloscope](#2026-11-01-november-2---finished-the-firmware-for-this-oscil)
 
@@ -27,9 +27,22 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/3f6a6be8-ae20-4745-ad08-13ef6e1c846a/video.mp4)
 
-### 2026-11-01: Work session
+### 2026-11-01: ## November 1
 
 **0.67h**
+
+## November 1
+This session I did some more research on the components I needed for my oscilloscope.
+I found the display that I wanted to use, OLED 128x64.
+I also did some research on how the display communicates and that my aTTiny3224 supported the I2C connection requirement.
+
+![Oscilloscope_10](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/d447602482e3be076b0bf9e8e41898524265b2066f459cc7ddb8b1d549c8fd2d.png)
+
+![Oscilloscope_11](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/22ba2f5ab7fc73433e2aa0774ec6dec4ed1289abaa0201b6d637888d0a66a968.png)
+
+![Oscilloscope_12](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/902a3fa6c0e13d77b24847437682f99be6fbd857d468b29adcf3ab03aad6141d.png)
+
+tl;dr found the last parts needed
 
 [Timelapse](https://lookout.hackclub.com/api/media/a1898110-cdec-44c5-a8f9-247734bb5e06/video.mp4)
 
