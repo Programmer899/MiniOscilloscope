@@ -16,7 +16,7 @@
 
 1. [2026-11-01: Work session](#2026-11-01-work-session)
 2. [2026-11-01: Work session](#2026-11-01-work-session)
-3. [2026-11-01: Work session](#2026-11-01-work-session)
+3. [2026-11-01: ## November 1](#2026-11-01-november-1)
 4. [2026-11-01: ## November 2 - Finished the firmware for this oscilloscope](#2026-11-01-november-2---finished-the-firmware-for-this-oscil)
 
 ## Design
@@ -33,9 +33,30 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/a1898110-cdec-44c5-a8f9-247734bb5e06/video.mp4)
 
-### 2026-11-01: Work session
+### 2026-11-01: ## November 1
 
 **3.18h**
+
+## November 1
+This session I started by creating a new kicad project.
+I also found the footprints needed aswell as downloading one for the USB-C connector.
+At the end I wired up the PCB and made sure that everything fitted
+
+# Schematic
+Found the footprints and set how the components communicate with each other
+![Oscilloscope_1](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/8fd1aadd079ca51d6762da6136519c79c3e3db7aee143165fbf181ed7c2fde5e.png)
+
+![Oscilloscope_2](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/343397af7ea5309659f8cd9a7b93b23a88dad84baab3df500765f90668a54d97.png)
+
+![Oscilloscope_3](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/f189936fd52a2faa6d6cc98be90bc16ca17e5200578d2ad41cad21ce02876107.png)
+
+# PCB
+Wired the components so that the connections reached
+![Oscilloscope_4](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/0334227d6d72c95386b687a304025c7892daf6da937181ac50fe1dcf739a2552.png)
+
+![Oscilloscope_5](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/52675f93b259eae7bd7c5a39331eebab86892af49d5ba792e13e9e76f301ef4c.png)
+
+![Oscilloscope_6](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/264dde7052f4e23ef8881931a5c099c3ca2ec0b683e0fd81e02d62b9bf3585b3.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/73fd7cb6-72aa-44ff-ac78-d6728fabbf77/video.mp4)
 
